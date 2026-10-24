@@ -1,0 +1,2 @@
+# Largence-LegalTech-Platform-Optimisation-Digital-Legal-Workflow-Transformation
+ As business analyst, My aims is to optimise Largence's LegalTech platform by improving legal workflows, defining business requirements from AS-ISmap enhancing user journeys, strengthening compliance processes, and prioritising product capabilitie through backlog with user stories and acceptance criteria, stakeholder engagement, RACI model and BRD 
